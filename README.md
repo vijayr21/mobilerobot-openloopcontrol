@@ -74,21 +74,14 @@ Insert image here
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
 
-[](https://youtube.com/shorts/huDYj3T7nf8?feature=share)
 
-<br/>
-<br/>
-<br/>
-<br/>
+! [](https://youtube.com/shorts/huDYj3T7nf8?feature=share)
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
 
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
