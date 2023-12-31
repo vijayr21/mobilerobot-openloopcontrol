@@ -66,17 +66,14 @@ if _name_ == '_main_':
 
 Insert image here
 
+![WhatsApp Image 2023-12-31 at 09 39 26_2f73d9ef](https://github.com/vijayr21/mobilerobot-openloopcontrol/assets/149347607/df08c1d4-e7ea-4d3f-b403-0de03da06eec)
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
 
 
-! []https://youtube.com/shorts/huDYj3T7nf8?feature=share
+https://youtu.be/_UX0rd_c13k?si=ykP8H7BQv0RA_CAf
 
 
 ## Result:
